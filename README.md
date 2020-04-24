@@ -24,4 +24,5 @@ The emphasis will be on Digital Communication.
 ### Resources:
 
 [Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted)
+
 [Developer Guide](https://developer.chrome.com/extensions/devguide)

@@ -20,3 +20,8 @@ The emphasis will be on Digital Communication.
     -This can also be effective for **health care workers** who **rank articles of covid prevention to others** while working in a medical environment. 
     -This can also be effective for **family/friends** who can **share websites with local information about their community** and any areas that have seen an increase in covid cases.
     -This can also be effective for **students** who can **push websites that provide good online learning resources** for home learning.
+
+### Resources:
+
+[Getting Started Tutorial](https://developer.chrome.com/extensions/getstarted)
+[Developer Guide](https://developer.chrome.com/extensions/devguide)

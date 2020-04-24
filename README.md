@@ -3,7 +3,7 @@
 ## Calhacks Project
 
 ### Idea: 
-Create a Chrome Extension that will bring together friends, families, and neibors as well as saving local businesses while social distancing. 
+Create a Chrome Extension that will bring together friends, families, and neigbors as well as saving local businesses while social distancing. 
 The emphasis will be on Digital Communication. 
 
 #### Potential idea:
